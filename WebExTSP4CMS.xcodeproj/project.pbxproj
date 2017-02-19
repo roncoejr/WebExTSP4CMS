@@ -6,10 +6,23 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		E47B0C2F1E5A165E00D904EE /* acano */ = {isa = PBXFileReference; lastKnownFileType = folder; path = acano; sourceTree = "<group>"; };
+		E47B0C301E5A165E00D904EE /* acano_tsp.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = acano_tsp.py; sourceTree = "<group>"; };
+		E47B0C311E5A165E00D904EE /* acano_tspWorker.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = acano_tspWorker.py; sourceTree = "<group>"; };
+		E47B0C321E5A165E00D904EE /* acano_tspWorker.pyc */ = {isa = PBXFileReference; lastKnownFileType = file; path = acano_tspWorker.pyc; sourceTree = "<group>"; };
+		E47B0C331E5A165E00D904EE /* cms */ = {isa = PBXFileReference; lastKnownFileType = folder; path = cms; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		E47B0C281E5A15D900D904EE = {
 			isa = PBXGroup;
 			children = (
+				E47B0C2F1E5A165E00D904EE /* acano */,
+				E47B0C301E5A165E00D904EE /* acano_tsp.py */,
+				E47B0C311E5A165E00D904EE /* acano_tspWorker.py */,
+				E47B0C321E5A165E00D904EE /* acano_tspWorker.pyc */,
+				E47B0C331E5A165E00D904EE /* cms */,
 			);
 			sourceTree = "<group>";
 		};
